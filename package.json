@@ -1,0 +1,19 @@
+{
+  "name": "fake-redux-enhercer-logger",
+  "version": "1.0.0",
+  "description": "fake redux logger for store enhencer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fridego/fake-redux-enhercer-logger.git"
+  },
+  "author": "fridego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fridego/fake-redux-enhercer-logger/issues"
+  },
+  "homepage": "https://github.com/fridego/fake-redux-enhercer-logger#readme"
+}
